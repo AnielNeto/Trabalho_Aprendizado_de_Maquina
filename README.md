@@ -17,3 +17,10 @@
 <div align="center">
   <img src="Imagens/carcajus_bg.png" width="500"/>
 </div>
+
+
+# 📜 Introdução 
+
+Repositório para o trabalho final da disciplina Aprendizado de Máquina do curso de graduação em Ciência e Tecnologia da Ilum Escola de Ciência.
+
+O trabalho consiste no estudo de algoritmos de aprendizado de máquina 
